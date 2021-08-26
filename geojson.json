@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 1,
+        "ds_ra": "Plano Piloto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.90107727050781, -15.7872980502555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 2,
+        "ds_ra": "Gama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.065528869628906, -16.015290997536727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 3,
+        "ds_ra": "Taguatinga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.05694580078125, -15.831810789711882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 4,
+        "ds_ra": "Brazlândia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.1944465637207, -15.679981385152315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 5,
+        "ds_ra": "Sobradinho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.78709411621094, -15.645519013825156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 6,
+        "ds_ra": "Planaltina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.65594482421875, -15.612786782427744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 7,
+        "ds_ra": "Paranoá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.78022766113281, -15.77416533599183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 8,
+        "ds_ra": "Núcleo Bandeirante"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.96789646148681, -15.869832925082116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 9,
+        "ds_ra": "Ceilândia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.10501098632812, -15.815708053512079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 10,
+        "ds_ra": "Guará"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.97720909118652, -15.82231445942191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 11,
+        "ds_ra": "Cruzeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.93755531311035, -15.789528049302046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 12,
+        "ds_ra": "Samambaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.088016510009766, -15.874827700095231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 13,
+        "ds_ra": "Santa Maria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.0128288269043, -16.015125998595757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 14,
+        "ds_ra": "São Sebastião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.77233123779297, -15.9002537251105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 15,
+        "ds_ra": "Recanto das Emas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.06072235107422, -15.901079191562653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 16,
+        "ds_ra": "Lago Sul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.87567138671875, -15.83684779246621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 17,
+        "ds_ra": "Riacho Fundo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.01729202270508, -15.880936843327397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 18,
+        "ds_ra": "Lago Norte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.86494255065918, -15.732779338511051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 19,
+        "ds_ra": "Candangolândia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.94957160949707, -15.852866277558576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 20,
+        "ds_ra": "Águas Claras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.029823303222656, -15.840811247311658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 21,
+        "ds_ra": "Riacho Fundo II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.048577308654785, -15.906238280124771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 22,
+        "ds_ra": "Sudoeste/Octogonal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.92442321777344, -15.799686623230214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 23,
+        "ds_ra": "Varjão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.876787185668945, -15.70898477150877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 24,
+        "ds_ra": "Park Way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.9633903503418, -15.900418818671954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 25,
+        "ds_ra": "SCIA/Estrutural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.987422943115234, -15.783085762883172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 26,
+        "ds_ra": "Sobradinho II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.8260612487793, -15.641551749306604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 27,
+        "ds_ra": "Jardim Botânico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.78846740722656, -15.860627354299993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 28,
+        "ds_ra": "Itapoã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.769670486450195, -15.746740826983856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 29,
+        "ds_ra": "SIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.95875549316406, -15.80323787439454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 30,
+        "ds_ra": "Vicente Pires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.01694869995117, -15.812074438278657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 31,
+        "ds_ra": "Fercal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.87172317504883, -15.598237445862175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 32,
+        "ds_ra": "Pôr do Sol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.11445236206055, -15.8598017220327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_ra": 33,
+        "ds_ra": "Arniqueira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.00158500671387, -15.859471468179354]
+      }
+    }
+  ]
+}
